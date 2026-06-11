@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+P{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:11px;
+	color: #F0C;
+	line-height: 18px;
+	padding:3px;
+	text-align:justify;
+}
+
+.cursiva{
+	font-size:italic;
+	margin-left:2px;
+	line-height:14px;
+	color: #F69
+    }
+.resaltado{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #903;
+	}
+		
+.negrita {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #906;
+}
+.TUTULO{
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #900;
+	text-align: center;
+	}
+.navegacion{
+	font-family:Verdana, Geneva, sans-serif
+	font-size: 16px;
+	color: #937;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #F06;
+	display: block;
+	width: 140px;
+	padding: 8px;
+}
+.navegacion:hover{
+	font-family:Verdana, Geneva, sans-serif
+	font-size: 17px;
+	color: #FFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #C09;
+	display: block;
+	width: 140px;
+	padding: 8px;
+	}
+.centrar{
+	width:800px;
+	margin: 0 auto;
+	}
